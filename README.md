@@ -1,4 +1,4 @@
-
+```
 #!/bin/bash
 
 echo Atualizando repositórios..
@@ -24,3 +24,4 @@ then
     exit 1
 fi
 echo "Instalação finalizada"
+```
